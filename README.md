@@ -1,8 +1,7 @@
 # Java_-IMC-
 ![image](https://github.com/stiv-32/Java_-IMC-/assets/144242742/0d096888-ee04-462f-bbc7-7ce432793250)
+![image](https://github.com/stiv-32/Java_-IMC-/assets/144242742/7e0581b0-7007-4919-9cb2-03d26710b183)
 
-
-![image](https://github.com/stiv-32/Java_-IMC-/assets/144242742/fea8ed08-8c3e-414c-981c-4b1a440d8ae6)
 
 desarrollar un programa que calcule el índice de masa corporal de una persona. Para ello, se requiere definir el peso de la persona (en kilogramos) y su estatura (en metros). El índice de masa corporal (IMC) se calcula utilizando la siguiente fórmula:
 
